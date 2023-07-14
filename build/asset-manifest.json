@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c07f65f8.css",
+    "main.js": "/static/js/main.01e6c5cf.js",
+    "static/media/keshwpur.jpeg": "/static/media/keshwpur.a7f169d8b62742cfe566.jpeg",
+    "static/media/denissons-hotel.jpg": "/static/media/denissons-hotel.e09a0f194191c1d0fb1b.jpg",
+    "static/media/vidya nagara.gif": "/static/media/vidya nagara.cb4ab8d037a280dca3b2.gif",
+    "static/media/gokul.jpeg": "/static/media/gokul.8755b56780e8e9cc7cf3.jpeg",
+    "static/media/akash.jpg": "/static/media/akash.5042fa145301c9bd6eb0.jpg",
+    "index.html": "/index.html",
+    "main.c07f65f8.css.map": "/static/css/main.c07f65f8.css.map",
+    "main.01e6c5cf.js.map": "/static/js/main.01e6c5cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c07f65f8.css",
+    "static/js/main.01e6c5cf.js"
+  ]
+}
